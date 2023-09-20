@@ -5,6 +5,7 @@
 - 연락처 : [admin@monoclear.ai](mailto:admin@monoclear.ai)
 
 향후 모델 평가 코드 등 다양한 오픈소스 공개 예정입니다.
+
 베타 진행중이니 많은 관심 부탁드립니다.
 
 ## Korean LLM Leaderboard
