@@ -1,10 +1,11 @@
-# monoclear.ai
+# monoclear.ai (beta)
 모노클리어.ai 는 LM과 챗봇 성능 관리 플랫폼입니다.
 
 - 리더보드 : [https://www.monoclear.ai/](https://www.monoclear.ai/)
 - 연락처 : [admin@monoclear.ai](mailto:admin@monoclear.ai)
 
 향후 모델 평가 코드 등 다양한 오픈소스 공개 예정입니다.
+베타 진행중이니 많은 관심 부탁드립니다.
 
 ## Korean LLM Leaderboard
 
@@ -17,8 +18,8 @@
 
 ### Contributors
 
-- Monoclear.ai 팀
+Monoclear.ai 팀
 
-- 김민상 (평가 파이프라인 기여)
+김민상 (평가 파이프라인 기여)
 
-- Special Thanks to Eleuther AI
+Special Thanks to Eleuther AI
