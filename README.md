@@ -1,5 +1,5 @@
 # monoclear.ai (beta)
-모노클리어.ai 는 LM과 챗봇 성능 관리 플랫폼입니다.
+모노클리어.ai 는 LM과 챗봇 성능 및 안전성 관리 플랫폼입니다.
 
 - 리더보드 : [https://www.monoclear.ai/](https://www.monoclear.ai/)
 - 커뮤니티 : [Discord 링크](https://discord.gg/rYZJG8dRM)
