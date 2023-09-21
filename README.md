@@ -20,6 +20,8 @@
 - 종합 리더보드 : HAE-RAE, Kobest, KLUE 종합 측정.
 - 해래 리더보드 : HAE-RAE 성능을 6가지 항목 세부 측정.
 
+[상세정보](https://github.com/monoclear-ai/monoclear.ai/tree/main/leaderboard)
+
 ### Contributors
 
 Monoclear.ai 팀
