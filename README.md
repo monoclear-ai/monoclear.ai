@@ -24,4 +24,4 @@ Monoclear.ai 팀
 
 김민상 (평가 파이프라인 기여)
 
-Special Thanks to Eleuther AI
+Special Thanks to 손규진 (EleutherAI Polyglot팀)
