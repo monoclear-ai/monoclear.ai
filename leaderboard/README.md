@@ -8,7 +8,7 @@
 - KLUE
 - HAE-RAE
 
-Max 200 samples per subtask 로 진행합니다.
+Max 200 samples per subtask 로 진행합니다. (no shuffle)
 
 ## 해래 리더보드
 
