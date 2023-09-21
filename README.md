@@ -15,7 +15,7 @@
 
 [바로가기](https://www.monoclear.ai/)
 
-기존 유명 한국어 benchmark 들과 (Kobest, KLUE), Eleuther.AI 에서 제공받아 최초로 공공에 공개하는 HAE-RAE benchmark 를 탑재하였습니다.
+EleutherAI Polyglot팀에서 직접 제공받아 최초로 공공에 공개하는 HAE-RAE 와, 기존 유명 한국어 benchmark (Kobest, KLUE) 들을 탑재하였습니다.
 
 - 종합 리더보드 : HAE-RAE, Kobest, KLUE 종합 측정.
 - 해래 리더보드 : HAE-RAE 성능을 6가지 항목 세부 측정.
