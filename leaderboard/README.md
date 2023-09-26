@@ -16,8 +16,6 @@ Max 200 samples per subtask 로 진행합니다. (no shuffle)
 
 - HAE-RAE
 
-모든 샘플을 사용하여 테스트 합니다.
-
 ## Metric
 
 Average Accuracy
